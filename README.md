@@ -10,12 +10,12 @@ Feel free to explore the dashboards and provide feedback!
 
 ---
 
-## 1. Diversity and Inclusion Dashboard
-## 2. Friends Dashboard
-## 3. HR Analytics Dashboard
-## 4. Olympics Dashboard
-## 5. Shark Tank Dashboard
-## 6. Spotify Personal Playlist Analysis Dashboard
+#### 1. Diversity and Inclusion Dashboard
+#### 2. Friends Dashboard
+#### 3. HR Analytics Dashboard
+#### 4. Olympics Dashboard
+#### 5. Shark Tank Dashboard
+#### 6. Spotify Personal Playlist Analysis Dashboard
 
 ---
 
