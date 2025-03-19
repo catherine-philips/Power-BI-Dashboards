@@ -16,6 +16,7 @@ Feel free to explore the dashboards and provide feedback!
 #### 4. Olympics Dashboard
 #### 5. Shark Tank Dashboard
 #### 6. Spotify Personal Playlist Analysis Dashboard
+#### 7. IPL Auction Analysis of CSK(for Prodian Infotech Private Limited)
 
 ---
 
